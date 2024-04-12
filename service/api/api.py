@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 
-# from emotions_detection.service.api.endpoints.detect import emo_router
+# #from emotions_detection.service.api.endpoints.detect import emo_router
 # from emotions_detection.service.api.endpoints.test import test_router
 
 
